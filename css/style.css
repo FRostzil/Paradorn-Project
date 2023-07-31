@@ -1,0 +1,15 @@
+@import "https://fonts.googleapis.com/css?family=Kanit";
+
+        * {
+            font-family: "Kanit", sans-serif;
+            font-size: 18;
+        }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.container-fluid {
+    width: 960px;
+    margin: 0 auto;
+}
